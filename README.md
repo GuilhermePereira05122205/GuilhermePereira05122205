@@ -1,5 +1,7 @@
 Meu nome é Guilherme Rafael Figueiredo Pereira. 
-Sou tecnico em desenvolvimento de sistemas e hoje curso Análise e Desenvolvimento de Sistemas.
+
+Técnico em Desenvolvimento de Sistemas.
+Cursando Análise e Desenvolvimento de Sistemas.
 
 Minhas habilidades são:
 
